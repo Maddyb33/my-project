@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
+
+body{font-family: "Arima", serif;color: rgb(234, 173, 19);font-size: 25px;}
+
+
+body{background-color: rgb(55, 175, 19);
+}
+
+
+body {
+border: 10px solid 
+rgb(152, 30, 189);
+}
+
+
+.info{color: rgb(234, 173, 19);}
+
+
+
+#navbar{
+display: flex;
+justify-content: space-around;
+align-items: center;
+background-color: rgb(221, 173, 52);
+height: 75px;
+margin-bottom: 10px;
+}
+
+#footer{
+display: flex;
+justify-content: space-around;
+align-items: center;
+background-color:rgb(221, 173, 52) ;
+height: 50px;}
+
+
+
+
+
+
+.info{
+display: flex;
+justify-content: center;flex-wrap: wrap;
+background-color: rgb(55, 175, 19);
+}
+
+
+.menu {
+display: flex;
+justify-content: space-evenly;
+background-color: rgb(55, 175, 19);
+}
+
+.item1{
+display: flex;
+flex-wrap: nowrap;
+flex-direction: column;
+align-items: center;
+background-color: rgb(26, 97, 4);
+}
+.item2{
+display: flex;
+flex-wrap: nowrap;
+flex-direction: column;
+align-items: center;
+background-color:rgb(27, 85, 9)
+}
+
+.item3{
+display:flex;
+flex-wrap:nowrap;
+flex-direction:column;
+align-items:center;
+background-color:rgb(52, 79, 6) ;
+}
+
+.item1 img{
+width: 300px;
+}
+
+.item2 img{
+width: 300px;
+}
+
+.item3 img{
+width: 300px;
+}
+
+
+
+.info{display:flex;
+flex-wrap:nowrap;
+flex-direction:column;
+align-items:center;
+justify-content:above;}
+
+
+
+.info{display: flex;
+justify-content: center;
+flex-wrap: wrap;}
+
+
+
+shop page
+
+
+
+.info{
+display: flex;
+justify-content: center;flex-wrap: wrap;
+background-color: rgb(46, 161, 11);
+}
+
+
+
+
+.plant1{
+display: flex;
+flex-wrap: nowrap;
+flex-direction: column;
+align-items: center;
+background-color: rgb(26, 97, 4);
+}
+
+.plant2{
+display: flex;
+flex-wrap: nowrap;flex-direction: column;
+align-items: center;
+background-color:rgb(27, 85, 9)
+}
+
+.plant3{
+display:flex;
+flex-wrap:nowrap;
+flex-direction:column;
+align-items:center;
+background-color:rgb(52, 79, 6) ;
+}
+
+.plant1 img{
+width: 300px;
+}
+
+.plant2 img{
+width: 300px;
+}
+
+.plant3 img{
+width: 300px;
+}
+
